@@ -1,8 +1,4 @@
 Jasmine's Mac-n-Cheese Pizza
---------------------------
-Servings: 8
-Time: 1 hour 15 minutes
-
 
 Ingredients:
 3 tablespoons all-purpose flour
@@ -17,15 +13,13 @@ Pinch ground nutmeg
 3 tablespoons chopped fresh chives
 2 tablespoons unsalted butter
 1 cup grated mozzarella
+
 Salt and freshly ground black pepper
 1 cup panko breadcrumbs
 1 tablespoon olive oil
 1 white onion, finely chopped
 2 cups whole milk
 1 store-bought pizza dough, rolled out and spread on a well-oiled baking sheet
-1 clove garlic, finely chopped
-1/2 cup Parmesan
-
 
 Directions:
 1. Preheat the oven to 450 degrees F.
@@ -45,4 +39,5 @@ Directions:
 15. Remove from the oven and set down. Spread the macaroni and cheese on the pizza, being careful to leave a 1-inch border.
 16. Sprinkle with the breadcrumb mixture on the macaroni and cheese and bake in the oven for 10 minutes.
 17. Remove from the oven and let stand for 10 minutes to set the macaroni and cheese.
+
 
